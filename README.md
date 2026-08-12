@@ -5,7 +5,7 @@ A clean, accessible, and highly responsive user interface designed specifically 
 > ** Note on Source Code:** Due to security policies and the sensitive nature of the project domain, the source code for this repository is kept completely private. This repository serves purely as a visual portfolio to demonstrate UI/UX and frontend design capabilities.
 
 ## 📸 Design Previews (Screenshots)
-<img width="784" height="5783" alt="bettiahpolice bihar gov in_ (1)" src="https://github.com/user-attachments/assets/6ee80bbd-3bf4-4064-9044-04cc29cbb51b" />
+<img width="1784" height="5783" alt="bettiahpolice bihar gov in_ (1)" src="https://github.com/user-attachments/assets/6ee80bbd-3bf4-4064-9044-04cc29cbb51b" />
 
 ---
 
